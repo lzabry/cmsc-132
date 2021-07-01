@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;pubAnimationSteps.txt&apos; to &apos;LinkedLists&apos;&#x0D;&#x0A;- Original project: &apos;ClearCellGame&apos;&#x0D;&#x0A;- Destination element: &apos;LinkedLists&apos;&#x0D;&#x0A;- Original element: &apos;pubAnimationSteps.txt&apos;" description="Copy file" destination="=LinkedLists" element1="pubAnimationSteps.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1603238189342" units="0" version="1.0"/>
+</session>
